@@ -3,6 +3,7 @@
 Yao Yao, Ivelin Angelov, Jack Rasmus-Vorrath, Mooyoung Lee, Daniel W Engels
 
 Southern Methodist University, Dallas, TX, US
+
 {yaoyao, iangelov, jrasmusvorrath, mooyoungl, dwe}@smu.edu
 
 
